@@ -26,4 +26,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UIScenes/ShopUI.unity
     guid: f4021e8183bb68d46918626185a96568
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 1ce406d6a824a8248ac7c11170a52a96,
+      type: 2}
